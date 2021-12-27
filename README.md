@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonrai-LLC
 - 👀 I’m interested in useful tools built in C# and Powershell, data management, data vizualization technology
-- 🌱 I’m currently learning .NET 6, NodeJS
+- 🌱 I’m currently learning .NET 6, NodeJS and practical FP
 - 💞️ I’m looking to collaborate on extension libraries for SSRS, GPS and data vizualization technology.
 - 📫 How to reach me: colin@sonrai.io
 
