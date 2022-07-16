@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonrai-LLC
-- 👀 I’m interested in .NET 6, SQL, ETL, EDI, XSLT, XPath, data analysis (R), dataviz (HighCharts) and reporting tech (SSRS, PBI)
-- 🌱 I’m currently learning R and Python statistical analysis libraries
+- 👀 I’m interested in .NET, SQL, ETL, EDI, XSLT, XPath, data analysis (R), dataviz (HighCharts) and reporting tech (SSRS, PBI)
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on extension libraries for SSRS, GPS and data vizualization technology
 - 📫 How to reach me: colin@sonrai.io
 
